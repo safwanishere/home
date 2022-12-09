@@ -1,4 +1,5 @@
-p{
-    font-size: larger;
+.header{
+    font-size: 200px;
     color: cadetblue;
+    text-align: center;
 }
