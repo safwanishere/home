@@ -1,0 +1,18 @@
+body{
+    background-color: #1A1A1A;
+    background-size: contain;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 3000px;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+p, h1, h2{
+    font-family: "Roboto";
+    margin: 0px;
+    padding: 0;
+    color: white;
+    display: inline-block;
+}
